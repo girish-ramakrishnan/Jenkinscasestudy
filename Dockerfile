@@ -1,2 +1,2 @@
-FROM girishramakrishnan/8thjanubuntu-apache
+FROM hshar/webapp
 ADD . /var/www/html
